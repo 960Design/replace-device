@@ -31,6 +31,6 @@ jobs:
         #password: ${{ secrets.FTP_PASSWORD }}
         #local-dir: build/
         server: ftp.960design.com
-        username: return-device@960design.com
+        username: replace-device@960design.com
         password: ${{ secrets.FTP_PASSWORD }}
         local-dir: build/
