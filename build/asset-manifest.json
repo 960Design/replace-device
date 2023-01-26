@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/replace-device/static/js/main.4c20bd34.js",
+    "main.js": "/replace-device/static/js/main.c9e4d7b5.js",
     "index.html": "/replace-device/index.html",
-    "main.4c20bd34.js.map": "/replace-device/static/js/main.4c20bd34.js.map"
+    "main.c9e4d7b5.js.map": "/replace-device/static/js/main.c9e4d7b5.js.map"
   },
   "entrypoints": [
-    "static/js/main.4c20bd34.js"
+    "static/js/main.c9e4d7b5.js"
   ]
 }

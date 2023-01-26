@@ -18,7 +18,7 @@ const Logo = styled.img`
   height:175px;
   border:2px solid #04050A;
   border-radius:50%;
-  background-image: url(replace-device/images/ocsd_logo.png);
+  background-image: url(./images/ocsd_logo.png);
   background-repeat:no-repeat;
   background-size:170px 170px;
 `;
