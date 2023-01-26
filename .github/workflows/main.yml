@@ -26,10 +26,6 @@ jobs:
     - name: Sync Files
       uses: SamKirkland/FTP-Deploy-Action@4.3.0
       with:
-        #server: ftp.hagan.life
-        #username: deploy@hagan.life
-        #password: ${{ secrets.FTP_PASSWORD }}
-        #local-dir: build/
         server: ftp.960design.com
         username: replace-device@960design.com
         password: ${{ secrets.FTP_PASSWORD }}
