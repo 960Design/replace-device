@@ -54,8 +54,7 @@ export const App = () => {
         <Logo></Logo>
         <Sus>Return iPad Now</Sus>
         <Info>
-          <p>Please Return this 1:1 Device to Mobile Support.</p>
-          <p>It has been replaced by a new iPad.</p>
+          <p>Please Return this device to Mobile Support.</p>
         </Info>
         <Contact>haganw@okaloosaschools.com</Contact>
       </Splash>
